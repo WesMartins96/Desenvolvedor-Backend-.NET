@@ -5,7 +5,7 @@
   <img src="https://d335luupugsy2.cloudfront.net/images%2Flanding_page%2F617411%2Fbalta.io.png" alt="Logo do curso" width="500" height="200"/>
 </p>
 <p align="center">
-  <a href="https://balta.io/carreiras/desenvolvedor-backend-dotnet" class="button">Curso Carreira Desenvolvedor .NET</a>
+  <a href="https://balta.io/carreiras/desenvolvedor-backend-dotnet" target="_blank">Curso Carreira Desenvolvedor .NET</a>
 </p>
 
 <br>
