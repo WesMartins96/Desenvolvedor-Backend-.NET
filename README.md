@@ -4,7 +4,7 @@
   <img src="https://mvp.microsoft.com/en-us/PublicProfile/Photo/5000060" alt="Foto do criador do curso" width="250" height="200"/>
   <img src="https://d335luupugsy2.cloudfront.net/images%2Flanding_page%2F617411%2Fbalta.io.png" alt="Logo do curso" width="500" height="200"/>
 </p>
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="/readmeStyle/style.css">
 <p align="center">
   <a href="https://balta.io/carreiras/desenvolvedor-backend-dotnet" class="button">Curso Carreira Desenvolvedor .NET</a>
 </p>
