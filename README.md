@@ -17,8 +17,8 @@ Curso desenvolvido por Andre Baltieri. Aprenda tudo sobre a criação de aplica�
 <br>
 <h2 align="center">Guia de Carreira</h2>
 <br>
-<p align="left">
-  <img src="https://baltaio.blob.core.windows.net/static/images/courses/fundamentos-csharp_share.jpg" alt="Logo do curso" width="500" height="200"/>
+<p align="center">
+  <img src="https://baltaio.blob.core.windows.net/static/images/courses/fundamentos-csharp_share.jpg" alt="Logo do curso" width="750" height="260"/>
   
   ## _Aprenda os fundamentos_
   
