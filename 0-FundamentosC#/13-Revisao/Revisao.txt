@@ -1,0 +1,12 @@
+NESTE MÓDULO APRENDEMOS:
+
+✔ Console, Variáveis, Constantes.
+✔ Tipos de dados.
+✔ Conversão de dados.
+✔ Operadores (Aritméticos, Atribuição, Comparação e Lógicos).
+✔ Estruturas Condicionais (if e switch).
+✔ Laços de Repetição (For, While e Do/While).
+✔ Funções e Métodos.
+✔ Tipos de Referência e Tipos de Valor.
+✔ Estruturas.
+✔ Enumeradores.
